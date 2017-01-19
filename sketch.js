@@ -23,7 +23,7 @@ function setup() {
 	Sound = loadSound("Recording.wav");
 	createCanvas(360, 550);
     reset();
-    img = loadImage("Fikrul.jpg");
+    img = loadImage("YongXin.png");
 }
 
 function draw() {
